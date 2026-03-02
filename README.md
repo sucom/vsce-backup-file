@@ -2,7 +2,11 @@
 
 Never lose your progress — instantly back up your file before every edit, whether by you or your AI.
 
-To backup a folder, checkout [Backup Folder](https://marketplace.visualstudio.com/items?itemName=spajs.backup-folder) extension.
+#### Related extensions
+
+- [Backup Folder](https://marketplace.visualstudio.com/items?itemName=spajs.backup-folder) - To backup/snapshot a folder.
+- [Git Snapshots](https://marketplace.visualstudio.com/items?itemName=spajs.git-snapshots) - For Git based snapshots.
+- [Tagged Snapshots](https://marketplace.visualstudio.com/items?itemName=SPAjs.tagged-snapshots) - For Tagged snapshots of editor files (all/active tab group)
 
 ## Installation
 
